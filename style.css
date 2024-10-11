@@ -1,0 +1,30 @@
+html 
+
+
+{
+  
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: black;
+  color: yellow;
+  font-sized: 12px;
+}
+
+h1 {
+  font-family: 'Times New Roman',
+}
+
+p {
+  font-size: 20px
+}
+
+/* Noah, October 11th, 2024, text size 20 pixels, heading changed to times new roman, background color changed to black, text color changed to yellow */  
+
+h3 {
+  font-family: 'comic sans ms';
+}
+
+/* Made a heading 3, put it in comic sans ms */
